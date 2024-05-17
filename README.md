@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Kitty studying Computer Science and Financial Management at the University of Waterloo 
 - ✨ I'm currently passionate about:
   - Computer Science: Data Science, Machine Learning, Quantative Trading, Software Engineering, and stimulating challenges
-  - Finance: Investment Banking, and building portfolio stimulations
+  - Finance: Building portfolio stimulations, and using machine learning models to learn more about factor trading
   - Others: 🎨Drawing U1/UX elements, ⛸️Skating, 🏊🏻‍♀️Swimming, 🏐Volleyball, 💃🏻Ballroom Dancing
 - 🚀 I have experience in:
   - Software Development (C#, SQL, Azure DevOps)
