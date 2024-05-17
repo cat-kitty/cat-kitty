@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kitty studying Computer Science and Financial Management at the University of Waterloo 
+- 👋 Hi, I'm Kitty studying Computer Science and Financial Management at the University of Waterloo 
 
 <!--
 **cat-kitty/cat-kitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
