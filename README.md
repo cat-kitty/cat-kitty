@@ -1,16 +1,20 @@
 👋 Hi, I'm Kitty studying Computer Science and Financial Management at the University of Waterloo 
+
 ✨ I'm currently passionate about:
   - Computer Science: Data Science, Machine Learning, Quantative Trading, Software Engineering, and stimulating challenges
   - Finance: Building portfolio stimulations, and using machine learning models to learn more about factor trading
   - Others: 🎨Drawing U1/UX elements, ⛸️Skating, 🏊🏻‍♀️Swimming, 🏐Volleyball, 💃🏻Ballroom Dancing
+
 🚀 I have experience in:
   - Software Development (C#, SQL, Azure DevOps)
   - Data Science (Databricks, Python, PyTorch, LLM)
   - Full Stack Development (React, Javascript, HTML, CSS, Google Chrome Extensions)
+
 🌱 I’m currently learning about:
   - Data Security
   - Operating Systems
   - And always exploring new projects, frameworks and languages!
+
 📫 How to reach me:
   - Email: kittychoi15@gmail.com
   - Linkedin: https://www.linkedin.com/in/kitty-cai/
