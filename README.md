@@ -3,7 +3,7 @@
 ✨ I'm currently passionate about:
   - Computer Science: Data Science, Machine Learning, Quantative Trading, Software Engineering, and stimulating challenges
   - Finance: Building portfolio stimulations, and using machine learning models to learn more about factor trading
-  - Others: 🎨Drawing U1/UX elements, ⛸️Skating, 🏊🏻‍♀️Swimming, 🏐Volleyball, 💃🏻Ballroom Dancing
+  - Others: 🎨Drawing UI/UX elements, ⛸️Skating, 🏊🏻‍♀️Swimming, 🏐Volleyball, 💃🏻Ballroom Dancing
 
 🚀 I have experience in:
   - Software Development (C#, SQL, Azure DevOps)
