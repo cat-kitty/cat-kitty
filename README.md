@@ -5,7 +5,7 @@
   - Finance: Building portfolio stimulations, and using machine learning models to learn more about factor trading
   - Others: 🎨Drawing UI/UX elements, ⛸️Skating, 🏊🏻‍♀️Swimming, 🏐Volleyball, 💃🏻Ballroom Dancing
 
-🚀 I have experience in:
+🚀 I have prior internship experience in:
   - Software Development (C#, SQL, Azure DevOps)
   - Data Science (Databricks, Python, PyTorch, LLM)
   - Full Stack Development (React, Javascript, HTML, CSS, Google Chrome Extensions)
